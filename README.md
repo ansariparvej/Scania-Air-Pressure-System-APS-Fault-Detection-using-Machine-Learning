@@ -1,6 +1,6 @@
 # neurolab-mongo-python
 
-![image](https://user-images.githubusercontent.com/57321948/196933065-4b16c235-f3b9-4391-9cfe-4affcec87c35.png)
+![image](https://www.google.com/search?q=scania+truck+&tbm=isch&ved=2ahUKEwi-3oqE6NH-AhXMzqACHWxnC0QQ2-cCegQIABAA&oq=scania+truck+&gs_lcp=CgNpbWcQAzIECCMQJzIFCAAQgAQyBwgAEIoFEEMyBQgAEIAEMgUIABCABDIFCAAQgAQyBwgAEIoFEEMyBQgAEIAEMgUIABCABDIFCAAQgAQ6BggAEAUQHlDoDFjoDGD3DmgAcAB4AIAB4QGIAcEDkgEDMi0ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=v3pOZP6CN8ydg8UP7M6toAQ&bih=572&biw=1252#imgrc=FbXRCvxOC0gyuM)
 
 ### Step 1 - Install the requirements
 
