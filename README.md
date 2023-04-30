@@ -1,7 +1,5 @@
 # neurolab-mongo-python
 
-![image](https://www.google.com/search?q=scania+truck+&tbm=isch&ved=2ahUKEwi-3oqE6NH-AhXMzqACHWxnC0QQ2-cCegQIABAA&oq=scania+truck+&gs_lcp=CgNpbWcQAzIECCMQJzIFCAAQgAQyBwgAEIoFEEMyBQgAEIAEMgUIABCABDIFCAAQgAQyBwgAEIoFEEMyBQgAEIAEMgUIABCABDIFCAAQgAQ6BggAEAUQHlDoDFjoDGD3DmgAcAB4AIAB4QGIAcEDkgEDMi0ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=v3pOZP6CN8ydg8UP7M6toAQ&bih=572&biw=1252#imgrc=FbXRCvxOC0gyuM)
-
 ### Step 1 - Install the requirements
 
 ```bash
